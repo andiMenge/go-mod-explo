@@ -7,5 +7,5 @@ import (
 
 func main() {
 	fmt.Println("foo")
-	mypackage.Bar()
+	fmt.Println(mypackage.Bar())
 }
