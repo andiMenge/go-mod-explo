@@ -7,4 +7,4 @@ run:
 	@go run foobar
 
 test:
-	@go test
+	@go test foobar...

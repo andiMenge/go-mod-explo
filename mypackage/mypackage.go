@@ -1,8 +1,6 @@
 package mypackage
 
-import "fmt"
-
 // Bar .
-func Bar() {
-	fmt.Println("Bar")
+func Bar() string {
+	return "bar"
 }
