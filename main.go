@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"foobar/mypackage"
+	"foobar/components/mypackage"
 )
 
 func main() {
